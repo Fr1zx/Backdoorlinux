@@ -23,7 +23,7 @@ Set up Metasploit for exploitation. Refer to the Metasploit documentation for in
 
 Once the backdoor connects to the listener, you will have remote access to the target system.
 
-![Image ](https://github.com/Fr1zx/Backdoorlinux/blob/main/photo.png)
+![Image ](https://github.com/Fr1zx/Backdoorlinux/blob/main/photo.jpeg)
 Contact
 For any questions or feedback, feel free to reach out:
 
