@@ -30,5 +30,3 @@ Telegram: @fr1zxx
 GitHub: https://github.com/Fr1zx
 Disclaimer
 This tool is intended for educational and ethical purposes only. The authors are not responsible for any misuse or damage caused by this tool. Use it at your own risk.
-
-Feel free to customize the README file further to provide more details about yo
